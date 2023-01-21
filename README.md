@@ -2,8 +2,6 @@
 
 ## Technologies
 
-Technologies that I used to develop this application:
-
 - [Zod](https://github.com/colinhacks/zod)
 - [Expo](https://expo.dev/)
 - [React](https://reactjs.org/)
