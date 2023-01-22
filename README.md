@@ -14,7 +14,7 @@
 
 ## Run Local
 
-Run the following command in both server and web directories to start the application.
+Run the following command in both server and client directories to start the application.
 
 ```bash
 $ npm run dev
